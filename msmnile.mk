@@ -360,6 +360,10 @@ PRODUCT_PACKAGES += \
     libril \
     librilutils
 
+# fwk_detect
+PRODUCT_PACKAGES += \
+	libqti_vndfwk_detect
+
 # Recovery
 PRODUCT_PACKAGES += \
     librecovery_updater_raphael
