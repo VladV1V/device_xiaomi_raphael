@@ -13,4 +13,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/nitrogen_raphael.mk
+    $(LOCAL_DIR)/reloaded_raphael.mk
