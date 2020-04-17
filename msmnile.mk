@@ -65,6 +65,10 @@ PRODUCT_PACKAGES += \
     android.hardware.bluetooth.audio@2.0-impl \
     android.hardware.soundtrigger@2.1-impl
 
+# Boot animation
+TARGET_SCREEN_HEIGHT := 1920
+TARGET_SCREEN_WIDTH := 1080
+
 PRODUCT_PACKAGES += \
     audio.a2dp.default \
     audio.bluetooth.default \

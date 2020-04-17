@@ -18,7 +18,6 @@ $(call inherit-product, device/xiaomi/raphael/msmnile.mk)
 # Inherit some common PixelExperience stuff.
 $(call inherit-product, vendor/nitrogen/products/common.mk)
 
-TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_GAPPS_ARCH := arm64
 
 # Device identifier. This must come after all inclusions.
